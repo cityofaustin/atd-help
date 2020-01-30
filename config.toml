@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "http://atd-help.netlify.com/"
+baseURL = "https://atd-help.netlify.com/"
 # theme
 theme = "dot"
 # site title
