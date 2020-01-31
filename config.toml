@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://atd-help.netlify.com/"
+baseURL = "https://help.austinmobility.io/"
 # theme
 theme = "dot"
 # site title
